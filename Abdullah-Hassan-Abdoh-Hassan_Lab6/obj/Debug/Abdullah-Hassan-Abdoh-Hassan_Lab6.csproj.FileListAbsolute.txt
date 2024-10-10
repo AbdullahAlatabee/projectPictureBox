@@ -1,0 +1,16 @@
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\bin\Debug\Abdullah-Hassan-Abdoh-Hassan_Lab6.exe.config
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\bin\Debug\Abdullah-Hassan-Abdoh-Hassan_Lab6.exe
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\bin\Debug\Abdullah-Hassan-Abdoh-Hassan_Lab6.pdb
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah-Hassan-Abdoh-Hassan_Lab6.csproj.AssemblyReference.cache
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah-Hassan-Abdoh-Hassan_Lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah_Hassan_Abdoh_Hassan_Lab6.Form1.resources
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah_Hassan_Abdoh_Hassan_Lab6.Properties.Resources.resources
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah-Hassan-Abdoh-Hassan_Lab6.csproj.GenerateResource.cache
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah-Hassan-Abdoh-Hassan_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah-Hassan-Abdoh-Hassan_Lab6.exe
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah-Hassan-Abdoh-Hassan_Lab6.pdb
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah_Hassan_Abdoh_Hassan_Lab6.Form2.resources
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah_Hassan_Abdoh_Hassan_Lab6.Form3.resources
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah_Hassan_Abdoh_Hassan_Lab6.Form4.resources
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah_Hassan_Abdoh_Hassan_Lab6.Form5.resources
+C:\Users\CFP\source\repos\Abdullah-Hassan-Abdoh-Hassan_Lab6\Abdullah-Hassan-Abdoh-Hassan_Lab6\obj\Debug\Abdullah_Hassan_Abdoh_Hassan_Lab6.Form6.resources
